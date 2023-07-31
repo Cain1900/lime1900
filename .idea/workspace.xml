@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d3167eb-d526-480e-b00f-74396ae1d095" name="Changes" comment="modify" />
+    <list default="true" id="5d3167eb-d526-480e-b00f-74396ae1d095" name="Changes" comment="modify">
+      <change beforePath="$PROJECT_DIR$/vsuap/config/vsuapSpace-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vsuap/config/vsuapSpace-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vsuap/config/vsuapSpace-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vsuap/config/vsuapSpace-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vsuap/config/vsuapSpace-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vsuap/config/vsuapSpace-test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vsuap/config/vsuapSpace.properties" beforeDir="false" afterPath="$PROJECT_DIR$/vsuap/config/vsuapSpace.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +56,7 @@
       <workItem from="1690797593342" duration="32000" />
       <workItem from="1690797646331" duration="9000" />
       <workItem from="1690797667755" duration="2000" />
-      <workItem from="1690797682520" duration="300000" />
+      <workItem from="1690797682520" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1690789032718</created>
@@ -102,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690797708706</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="modify">
+      <created>1690798088473</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690798088473</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
